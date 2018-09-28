@@ -1,2 +1,2 @@
 # ReactTutorial
-small tutorial
+Small React Tutorial
